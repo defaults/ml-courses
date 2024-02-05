@@ -1,2 +1,2 @@
 # machine-learning
-Notes, assignments and stuffs related to ML and Deep Learning course at Coursera
+Notes, assignments and stuffs related to ML and Deep Learning courses
